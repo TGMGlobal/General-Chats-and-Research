@@ -87,7 +87,9 @@ Home · About Us (overview, mission & vision, structure, our journey, investment
 
 2. **The Press & Media page contains exactly one item.** Dated 15 January 2024, the listing announcement, **issued by the sponsor rather than by SEIT**, and filed under the tag "Uncategorized". That is the entire owned media archive since listing. The page also contains a "LinkedIn Posts" section heading, meaning they have already structurally committed to LinkedIn as their channel.
 
-3. **The Life at SEIT page carries live Lorem ipsum.** The top of the page has genuinely good culture copy. Two sections below it, **"Employee Experience"** and **"Career stories"** (including three empty "Lorem, ipsum." story cards), are still placeholder Latin, published. This is the single sharpest artifact in the whole research.
+3. **The Life at SEIT page asserts a culture and shows nobody in it.** The page carries genuinely good copy across four cards and closes on "Join SEIT. Be part of India's sustainable energy journey." But there is **no open role listed, no application route, no contact and not one employee named or pictured**. It is an invitation with nowhere to click.
+
+   > **Correction, verified by browser render on 26 Nov 2026.** Placeholder "Lorem ipsum" text for "Employee Experience" and "Career stories" sections *does* exist in the page source, but it sits inside an HTML comment and **does not render**. Visitors never see it. **Do not claim it is live.** An earlier draft of this brief made that claim after parsing raw HTML rather than rendering the page. Always render before citing page content.
 
 4. **Existing employer value proposition copy (usable, theirs):**
    - Headline values: **"Grow. Perform. Sustain."**, **"Own Your Impact"**, **"A Culture of Purpose"**, **"More Than a Workplace"**
@@ -238,7 +240,7 @@ Their homepage also runs a heavier consumer-slang register ("We build brands tha
 ### Three gaps
 
 1. **Reach.** 2,921 followers against IndiGrid's 77,955 (27×) and their own sponsor Mahindra Susten's 91,197 (31×).
-2. **Consistency.** The story stops at the edge of the feed: one sponsor-issued press release since January 2024, Lorem ipsum live on the careers page, and a LinkedIn page still declaring itself "Privately Held" with no tagline, headquarters or specialties.
+2. **Consistency.** The story stops at the edge of the feed: one sponsor-issued press release since January 2024 filed under "Uncategorized", a careers page inviting people to "Join SEIT" with no role, application or human being on it, and a LinkedIn page still declaring itself "Privately Held" with no tagline, headquarters or specialties.
 3. **Ownership.** No communications, brand or content function exists. Investor relations sits with the Compliance Officer. Everything reads like a filing because it is written by the people responsible for filings.
 
 ### The insight that reframes it
@@ -277,7 +279,7 @@ Note: none of these require new corporate disclosure. All the material already e
 | Format | What it is |
 |---|---|
 | **Fireside, properly made** | #SEITFiresidechats is their best content but currently a text recap. Turn it into a filmed, designed, recurring property with feed-native clips |
-| **Career Stories, finally filled** | Shoot and write the placeholder section with their own 44 people, then run it as a LinkedIn series that feeds the site |
+| **Give the culture a face** | Life at SEIT makes four claims about culture and shows nobody living them. Shoot and write those stories with their own 44 people, then run them as a series that feeds the site |
 | **The lean team advantage** | At 44 people a new joiner sits a desk from the decisions. Most renewable employers cannot offer that. Make it a recruiting argument |
 | **Grow. Perform. Sustain.** | They have already written a sharp EVP. It has never left the website |
 
@@ -312,7 +314,7 @@ Measured on followers, engagement rate, executive reach and inbound candidate qu
 | 1 | cover | **Make the megawatts visible.** | Eyebrow "A LinkedIn Proposal". Subtitle: a LinkedIn strategy for investor relations and employer branding at SEIT. Footer: The Oviyan Studio, Mumbai, November 2026 |
 | 2 | homework | **We read everything first.** | Three cards: Yours (site, last 4 posts, Q2 FY27 filings, FY25-26 sustainability report) / Theirs (IndiGrid, Cube Highways, Bharat InvITs Association, measured not assumed) / The rules (SEBI InvIT advertising provisions). Closing: three things stood out |
 | 3 | reach | **Almost nobody is hearing it.** | Three huge stats: 2,921 / 77,955 / 91,197. Closing: IndiGrid reaches 27×, your sponsor 31× |
-| 4 | consistency | **The story stops at the edge of the feed.** | Three cards: one press release since Jan 2024 (sponsor-issued, "Uncategorized") / Lorem ipsum live on Life at SEIT / LinkedIn says "Privately Held", no tagline, HQ or specialties |
+| 4 | consistency | **The story stops at the edge of the feed.** | Three verbatim quotes from SEIT's own live pages: **"Uncategorized"** (the tag on its only press release) / **"Join SEIT."** (the careers page invitation, with no role, application or person on it) / **"Privately Held"** (what its LinkedIn calls an NSE-listed trust) |
 | 5 | ownership | **Nobody owns this. That explains the other two.** | Compliance Officer is also IR Officer. No comms function. Not a gap in effort, a missing function. Close: "You don't need a bigger team. You need a studio attached to the one you have." |
 | 6 | goodnews | **What you are publishing already works.** | 2.6% vs 0.14% vs 19×. Note the fireside chat outperformed the results post |
 | 7 | reframe | **This was never a content problem.** | Full-bleed accent statement slide. "It is a distribution problem. A far better problem to have, and a much faster one to solve." |
@@ -346,6 +348,9 @@ Measured on followers, engagement rate, executive reach and inbound candidate qu
 ---
 
 ## 13. Known gaps and unverified items
+
+> **Method note.** Claims about page content must be verified by **rendering the page in a browser**, not by parsing raw HTML. SEIT's site contains commented-out draft sections that appear in the source and never reach the screen. One such block produced a false claim in an earlier draft of this brief. Render first, then cite.
+
 
 - **Anzen, PGInvIT and NHIT LinkedIn metrics are unverified.** The URL slugs attempted returned 404. Confirm manually before citing.
 - SEIT's follower count, employee count and post engagement were captured on 26 November 2026 and will drift. Refresh immediately before the meeting.
