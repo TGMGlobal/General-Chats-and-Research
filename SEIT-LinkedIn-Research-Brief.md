@@ -14,6 +14,7 @@
 - **Do not include commercials, pricing or rate cards.** This is a strategy proposal, not a quote.
 - **Do not include an agency credentials or client-logo section.** The thinking carries the pitch.
 - **Tone:** conversational, confident, grown-up. The reader should feel part of a conversation.
+- **Visual system:** use SEIT's own brand (section 8b) — Nunito and Lato, the blue palette, SEIT's own photography. Do not reproduce the SEIT logo.
 - **Length:** compress hard. Target 15 slides, not 40 to 50.
 - **Avoid:** "It's not X, it's Y" contrast framing, and generic agency language.
 - Every statistic below is sourced. Do not invent additional numbers.
@@ -235,6 +236,47 @@ Their homepage also runs a heavier consumer-slang register ("We build brands tha
 
 ---
 
+## 8b. SEIT brand system (from the official SEIT Brand Manual)
+
+The deck is built in SEIT's own brand language, not the studio's. For a brand and content mandate, presenting in the client's system demonstrates fluency immediately and lets them picture the work.
+
+### Logo and meaning
+A blue lotus plus lowercase "seit". Per the manual: a **blossoming lotus** signifies a young, growing business; the **five petals** represent the five elements of nature (earth, wind, fire, water, space); the **blue lotus** signals that SEIT will "stand apart and occupy a unique position", and is auspicious and a symbol of prosperity in Indian culture. **Blue symbolises purity.**
+
+### Colour palette (exact, from the manual)
+| Gradient | Values |
+|---|---|
+| Light Blue | `#eff9fe` · `#c6e9f7` · `#81d3eb` |
+| Medium Blue | `#7ed3f7` · `#61a2d8` · `#3777bc` |
+| Dark Blue | `#3777bc` · `#2762a2` · `#1e4382` |
+
+### Typography (from the manual)
+- **Main titles: Nunito Bold**
+- **Secondary titles: Lato Bold**
+- **Body copy: Lato Regular**, with highlights in bold
+
+Both are Google Fonts, so the deck matches the manual exactly.
+
+### How the deck applies it
+- Deep slides use a `#2762a2 → #1e4382` gradient, echoing the manual's "logo reverse" treatment
+- Light slides use white and `#eff9fe`
+- `#7ed3f7` carries statistics and emphasis on dark; `#3777bc` does the same on light
+- Letter-spaced uppercase eyebrows with a thin rule beneath, taken from the manual's section headers
+- Tonal rhythm alternates deep, white and `#eff9fe` so no two heavy slides sit together
+
+### Imagery
+Four photographs from SEIT's own website, uploaded into the deck:
+| Image | Used on |
+|---|---|
+| Solar array with city skyline at sunrise (`overview`) | Cover, full-height right panel |
+| Sun flaring across panels (`conserving-nature`) | Slide 7, full bleed under a navy scrim |
+| Panels to the horizon (`our-portfolio`) | Slide 8, band |
+| Path winding toward sunrise (`focus-areas`) | Uploaded and available, currently unplaced |
+
+**Logo note:** the deck deliberately does **not** reproduce the SEIT logo. The manual sets strict rules on proportion, position, colour, effects and clear space, and a misused mark in a brand pitch costs more than an absent one. Add the official asset from SEIT's own files before sending.
+
+---
+
 ## 9. Strategic diagnosis
 
 ### Three gaps
@@ -327,7 +369,7 @@ Measured on followers, engagement rate, executive reach and inbound candidate qu
 | 14 | ships | **Built for a regulated trust, not a brand page.** | Two columns: what ships (cadence) and how compliance holds (SEBI rules, Ilaa Udeshi review gate) |
 | 15 | ninety | **Three phases. An outcome each.** | The 90-day table, with measurement tied back to slide 3's baseline. No thank-you slide |
 
-**Deck status:** built and live at https://claude.ai/artifact/2NsgLRuBv2shywGzuF8tLY — 15 slides, black and white, Work Sans and Poppins, single amber accent `#E9B949`. This table reflects the deck as published.
+**Deck status:** built and live at https://claude.ai/artifact/2NsgLRuBv2shywGzuF8tLY — 15 slides, built in SEIT's own brand system (section 8b): Nunito and Lato, the blue palette from the brand manual, and four photographs from SEIT's website. Every slide has been rendered and checked for overflow. This table reflects the deck as published.
 
 ---
 
