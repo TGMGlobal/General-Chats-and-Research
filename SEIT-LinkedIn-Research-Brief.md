@@ -299,7 +299,7 @@ Note: none of these require new corporate disclosure. All the material already e
 ### First 90 days
 | Phase | Work | Outcome |
 |---|---|---|
-| **Days 1-30 — Foundation** | Page rebuilt, metadata corrected, positioning line written, Life at SEIT finished, compliance workflow agreed, 90-day calendar approved | SEIT's page finally states what SEIT is |
+| **Days 1-30 — Foundation** | Page rebuilt, metadata corrected, positioning line written, Life at SEIT given real faces and a way to apply, compliance workflow agreed, 90-day calendar approved | SEIT's page finally states what SEIT is |
 | **Days 31-60 — Activation** | Both pillars live, first fireside filmed, career stories shot, executive track begins, Inside the Asset visits a plant | A feed with a recognisable point of view, publishing twice a week |
 | **Days 61-90 — Compound** | Employee advocacy switched on, sponsor amplification coordinated, investor education series launches | Growth stops depending on the agency posting |
 
@@ -322,10 +322,12 @@ Measured on followers, engagement rate, executive reach and inbound candidate qu
 | 9 | moved | **But somebody just moved.** | IndiGrid MD's podcast with ET Markets and Bharat InvITs Association, with their quote. Two cards: what they claimed vs what is unclaimed (the solar story, only pure-play) |
 | 10 | idea | **Make the megawatts visible.** | The platform. Physical proof points vs PDFs. One idea, two audiences |
 | 11 | pillar1 | **The investor story.** | Four format cards as in section 10 |
-| 12 | pillar2 | **The people story.** | Four format cards as in section 10 |
+| 12 | pillar2 | **The people story.** | Four format cards: Fireside, properly made / Give the culture a face / The lean team advantage / Grow. Perform. Sustain. |
 | 13 | engine | **Posting more will not close a 27× gap.** | Three cards: executive voices / employee advocacy / sponsor gravity |
 | 14 | ships | **Built for a regulated trust, not a brand page.** | Two columns: what ships (cadence) and how compliance holds (SEBI rules, Ilaa Udeshi review gate) |
-| 15 | ninety | **Three phases. An outcome each.** | The 90-day table, with measurement tied back to slide 3's baseline |
+| 15 | ninety | **Three phases. An outcome each.** | The 90-day table, with measurement tied back to slide 3's baseline. No thank-you slide |
+
+**Deck status:** built and live at https://claude.ai/artifact/2NsgLRuBv2shywGzuF8tLY — 15 slides, black and white, Work Sans and Poppins, single amber accent `#E9B949`. This table reflects the deck as published.
 
 ---
 
